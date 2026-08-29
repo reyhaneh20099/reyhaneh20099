@@ -1,6 +1,6 @@
 # Hi, I'm Whiger 👋
 
-💻 **Python & Django Developer | Frontend Developer | UI/UX Enthusiast**
+💻 **Python & Django Developer | UI/UX Enthusiast**
 
 I'm a passionate developer who enjoys building modern, interactive and user-friendly web applications.
 
@@ -13,7 +13,6 @@ I mainly work with **Python, Django, HTML, CSS and JavaScript**, and I'm current
 * 🐍 Developing web applications with **Python & Django**
 * 🎨 Interested in **UI/UX Design**
 * 🖌️ Learning and working with **Figma**
-* 🌐 Building responsive websites with **HTML, CSS & JavaScript**
 * ✨ I enjoy creating modern interfaces with animations and interactive elements
 * 📚 Always learning new technologies and improving my development skills
 * 💡 Interested in combining **Design + Development**
@@ -31,8 +30,6 @@ I mainly work with **Python, Django, HTML, CSS and JavaScript**, and I'm current
 * Python
 * Django
 * HTML5
-* CSS3
-* JavaScript
 * Django Templates
 * Forms & Validation
 * Authentication
@@ -56,26 +53,7 @@ I mainly work with **Python, Django, HTML, CSS and JavaScript**, and I'm current
 * Prototyping
 * Design Systems
 * Figma
-
----
-
-### ✨ Frontend
-
-I enjoy creating interfaces that are not only functional but also visually engaging.
-
-**What I work with:**
-
-* Responsive layouts
-* CSS animations
-* Glassmorphism
-* Gradient-based designs
-* Interactive components
-* Modern landing pages
-* Dashboard interfaces
-* Forms & authentication pages
-* Animated backgrounds
-* Micro-interactions
-
+  
 ---
 
 ## 🧩 Projects
@@ -170,7 +148,6 @@ I want to build products where:
 * VS Code
 * PyCharm
 * Figma
-* HTML / CSS / JavaScript
 * Django
 
 ---
@@ -178,7 +155,6 @@ I want to build products where:
 ## 🌱 What I'm Improving
 
 * Advanced Django
-* JavaScript
 * UI/UX Design
 * Figma
 * Responsive Web Design
