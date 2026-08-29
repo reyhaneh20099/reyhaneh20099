@@ -4,7 +4,7 @@
 
 I'm a passionate developer who enjoys building modern, interactive and user-friendly web applications.
 
-I mainly work with **Python, Django, HTML, CSS and JavaScript**, and I'm currently expanding my skills in **UI/UX Design and Figma** to combine development with better user experiences.
+I mainly work with **Python, Django, and I'm currently expanding my skills in **UI/UX Design and Figma** to combine development with better user experiences.
 
 ---
 
@@ -99,10 +99,6 @@ A modern personal portfolio website focused on visual design and animations.
 * Dark / light mode
 * Smooth navigation
 * Modern neon-style effects
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript`
 
 ---
 
