@@ -24,7 +24,7 @@ I mainly work with **Python, Django, and I'm currently expanding my skills in **
 ### 💻 Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,django,html" />
 </p>
 
 * Python
