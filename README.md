@@ -1,4 +1,4 @@
-# Hi, I'm Whiger 👋
+# Hi, I'm Reyhaneh 👋
 
 💻 **Python & Django Developer | UI/UX Enthusiast**
 
